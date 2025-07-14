@@ -16,16 +16,16 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+Take a few minutes to think about what the benefits of working collaboratively might be.
 
-### Most real\-world projects involve teams
-- Too big to do alone
+Some benefits we have come up with are:
 
-### Produce working code more quickly
+- Most real-world projects too big to do alone
+- Produce working code more quickly
+- Better designs by considering more options
+- Can be more enjoyable
 
-### Better designs
-- Consider more options
-
-### Can be more enjoyable
+The slides for this introduction can be found [here](https://github.com/INTERSECT-training/Building-A-Community/blob/main/presentations/WorkingCollaborativelyIntro.pdf).
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 

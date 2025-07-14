@@ -17,19 +17,20 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+The following are some social aspects to consider when working collaboratively:
 
+- Inclusivity
+- Codes of conduct and their enforcement
+- Attitude: “Our” vs. “My” software
+- Engaging with new contributors
+- Group practices
+  - Leadership
+  - Decision-making style
+    - Egalitarian vs. acknowledged leader
+    - How much autonomy does an individual developer have?
+  - Time commitments to the project
 
-### Inclusivity
-### Codes of conduct and their enforcement
-### Attitude: “Our” vs. “My” software
-### Engaging with new contributors
-### Group practices
-- Leadership
-- Decision-making style
-  - Egalitarian vs. acknowledged leader
-  - How much autonomy does an individual developer have?
-- Time commitments to the project
-
+The slides for this introduction can be found [here](https://github.com/INTERSECT-training/Building-A-Community/blob/main/presentations/WorkingCollaborativelyIntro.pdf).
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
