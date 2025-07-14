@@ -17,29 +17,27 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+The following are technical considerations when working collaboratively:
 
-### Remote Collaborations
+- Remote Collaborations
+    - Meeting scheduling
+    - Need for more explicit communication
+    - Feeling “part of the team”
+        - Getting to know each other
+- Modes of communication
+    - Common terminology
+    - Helping people at remote sites
+-  Understanding team expertise
+    - Science
+    - Data
+    - Visualization
+    - Computer system and language
 
-- Meeting scheduling
-- Need for more explicit communication
-- Feeling “part of the team”
-    - Getting to know each other
-
-### Modes of communication
-
-- Common terminology
-- Helping people at remote sites
-
-### Understanding team expertise
-
-- Science
-- Data
-- Visualization
-- Computer system and language
-
+The slides for this introduction can be found [here](https://github.com/INTERSECT-training/Building-A-Community/blob/main/presentations/WorkingCollaborativelyIntro.pdf).
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-- None
+- Technology can augment collaboration, but it is not a replacement for clear communication.
+- Make use of the diverse experience on your team. Different technical skills make a well-rounded team and is a great opportunity for collaboration.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
