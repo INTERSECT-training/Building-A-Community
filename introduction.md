@@ -16,11 +16,17 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This lesson serves as an introduction the the other lessons on Working Collaboratively:
 
-### Some points here about the other modules
-Blah blah blah
+- Tools for Working Collaboratively
+  - Collaborative Git
+  - Issues and Pull Requests
+  - Documentation
+- Licensing
+- Project Management
+- Code Reviews and Pair Programming
 
-
+The slides for this introduction can be found [here](https://github.com/INTERSECT-training/Building-A-Community/blob/main/presentations/WorkingCollaborativelyIntro.pdf).
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
